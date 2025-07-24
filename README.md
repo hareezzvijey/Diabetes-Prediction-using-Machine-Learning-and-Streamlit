@@ -50,7 +50,7 @@ streamlit run app.py
 
 ### 📷 Preview
 
-![Streamlit UI Screenshot](https://your-image-url-or-placeholder.com/streamlit-screenshot.png)
+![Streamlit UI Screenshot](diabetic_prediction_preview.jpeg)
 
 ---
 
